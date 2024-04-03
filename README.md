@@ -5,13 +5,16 @@ I am a skilled full-stack developer with over 3 years of experience crafting mod
 
 :coffee: &emsp;Connect with me!
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/anikul.islam.binju) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-anikul-islam-binju-7454b41b6/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/md_anikul_islam_binju) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MD_ANIKUL_ISLAM) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anikul.islam.binju@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/anikul.islam.binju) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-anikul-islam-binju-7454b41b6/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/md_anikul_islam_binju) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MD_ANIKUL_ISLAM) 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anikul.islam.binju@gmail.com)
 
 ### Github Stats
 
-![Naeem's github stats](https://github-readme-stats.vercel.app/api?username=Md-Anikul-Islam&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Anikul-Islam&layout=compact&theme=tokyonight&hide")
+![Naeem's github stats](https://github-readme-stats.vercel.app/api?username=Md-Anikul-Islam-Binju&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Anikul-Islam-Binju&layout=compact&theme=tokyonight&hide")
 
 
 <!-- ## 💻 Things I code with -->
